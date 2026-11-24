@@ -8,7 +8,7 @@ This is a **teaching model, not an analysis tool**. It is deliberately simplifie
 parameters were chosen to produce plausible DTI values rather than calibrated against real
 tissue. The tissue drawing is illustrative only.
 
-**Try it online:** [link to the Streamlit app]
+**Try it online:** https://tensor-playground.streamlit.app/
 
 No installation or account is needed. It runs in any browser on a laptop, tablet or phone.
 
